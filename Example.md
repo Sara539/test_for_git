@@ -29,8 +29,8 @@ Linear Models   | [CRUK Github repo](https://bioinformatics-core-shared-training
 Inserting graphics    e.g. coffee-break & biscuits.   
 ![picture alt](Screenshots/SS1_small.png "Example image").  
 Tick-boxes.  
-- [ ] Have we done this?
-- [x] Have we done that?   
+- [x] Have we done this?
+- [ ] Have we done that?   
 <b>HTML tricks</b>    
 
 <ins> Underlining text </ins>     
